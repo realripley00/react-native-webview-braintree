@@ -52,7 +52,7 @@
   "description": "A React Native component for making payments using Braintree that uses no native code, only JavaScript.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reggie3/react-native-webview-braintree.git"
+    "url": "git+https://github.com/realripley00/react-native-webview-braintree.git"
   },
   "keywords": [
     "react-native",
